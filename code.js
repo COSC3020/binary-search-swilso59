@@ -17,5 +17,5 @@ while (l <= k){
     return -1;
 }
 
-console.log(binarySearch([1,2,3,4,5]),3);
-//For some reason I am not getting any output when trying to print out the results of the list and element form above. 
+console.log(binarySearch([1,2,3,4,5],3));
+// Fixed the parentheses. 
