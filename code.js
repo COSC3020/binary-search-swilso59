@@ -27,4 +27,7 @@ function binarySearch(list, element) {
 }
 
 console.log(binarySearch([2,4,5,6,7,8],4));
-// Fixed the parentheses. 
+// Fixed the parentheses.
+
+// I got help from the TA as well as reffering to binary-search-ziyuWang6666 repository. 
+// I got the test to pass although do not really understand why it did not work with my implementation. 
